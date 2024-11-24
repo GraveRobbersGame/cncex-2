@@ -1,0 +1,15 @@
+{
+    "name": "Cast and Crew Expansion 2",
+    "short": "Cast and Crew Expansion 2",
+    "year": "2024",
+    "sigil": "cncex-2",
+    "type": "screentest",
+    "description" : "The second Cast and Crew Expansion featuring more cards designed by our Kickstarter backers.",
+    
+    "list": "list.json",
+    "cover": "cover.jpeg",
+    "art": "/art/",
+    "thumb": "/thumb/",
+    "link" : "https://shop.arghacademy.org/",
+    "link_text": "Coming Soon!"
+}

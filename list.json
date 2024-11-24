@@ -1,0 +1,822 @@
+[
+    {
+        "number": "001-1",
+        "type": "character",
+        "name": "Agent Kater",
+        "traits": [
+            "Smart",
+            "Animal"
+        ],
+        "stat": "0",
+        "popcorn": 1,
+        "bucket": false,
+        "quote": "\"When Kater sleeps, it's safe... But when they awaken...\" \"You named your cat, 'Cat'?\"",
+        "abilities": "Every time a Creature attack is launched against your Movie, Agent Kater gains an additional +1 Defense.\n\n'Animal' — Can only use 'Clothing' Props.",
+        "title": "Awake",
+        "mechanic": "Christian Kretschmer",
+        "art": "001.jpeg",
+        "x": 0,
+        "y": -36,
+        "z": 1,
+        "bg": "0xFFFFFF",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+
+
+
+
+
+    {
+        "number": "003",
+        "type": "character",
+        "name": "The Sweetest Girl",
+        "traits": [
+            "Small",
+            "Family",
+            "Animal"
+        ],
+        "stat": "1",
+        "popcorn": 1,
+        "bucket": true,
+        "quote": "\"Scheming halted! Must... pet the dog first.\"",
+        "abilities": "Tip during an attack — Give the current attack -5 Attack Strength.\n\nAnimal — May only use 'Clothing' Props.",
+        "title": "Innocent",
+        "mechanic": "Adam Wright",
+        "art": "003.jpeg",
+        "x": 0,
+        "y": -12,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+
+
+
+
+    {
+        "number": "007-1",
+        "type": "character",
+        "name": "Alpaca",
+        "traits": [
+            "Dumb",
+            "Animal"
+        ],
+        "stat": "2",
+        "popcorn": 2,
+        "bucket": true,
+        "quote": "\"Yeah! I'm an alpaca again! ... Wait...\"",
+        "abilities": "Animal — May only use 'Clothing' Props.\n\nIgnores the Prop Limit. May also carry 'Treasure' Props, but 'Treasure' Props on the Alpaca lose any Abilities while on them.",
+        "title": "Groove",
+        "mechanic": "Andrew Jensen",
+        "art": "007-1.jpeg",
+        "x": -6,
+        "y": -19,
+        "z": 1.16,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "007-2",
+        "type": "location",
+        "name": "Palacio Del Inka Hotel",
+        "traits": [
+            "Native",
+            "Building"
+        ],
+        "stat": "4",
+        "popcorn": 3,
+        "bucket": true,
+        "quote": "\"So luxurious that even the ghosts of Incan emperors refuse to check out!\"",
+        "abilities": "If they are not already, you can \"Check In\" a Character at the Palacio for 1 Popcorn to give them +1 Defense. They remain \"Checked In\" until they are no longer at the Palacio.",
+        "title": "Luxury",
+        "mechanic": "Andrew Jensen",
+        "art": "007-2.jpeg",
+        "x": 0,
+        "y": -31,
+        "z": 1,
+        "bg": "0xF6F5F4",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "007-3",
+        "type": "prop",
+        "name": "Crystal Skull",
+        "traits": [
+            "Special"
+        ],
+        "stat": "*",
+        "popcorn": 1,
+        "bucket": true,
+        "quote": "\"Shiny, mysterious, and probably cursed!\"",
+        "abilities": "When the Skull comes into play, choose one: Either it's -2 Defense and 'Cursed' (— Can be played in another Movie; cannot be moved normally between Characters) OR it's a 'Treasure' for 2 Defense, worth 4 Points at the end of the game.",
+        "title": "Skull",
+        "mechanic": "Andrew Jensen",
+        "art": "007-3.jpeg",
+        "x": -3,
+        "y": -49,
+        "z": 1.12,
+        "bg": "0x757575",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "007-4.jpeg",
+        "type": "special-effect",
+        "name": "Native Glow-Up",
+        "traits": [
+            "None"
+        ],
+        "stat": "10",
+        "popcorn": 2,
+        "bucket": true,
+        "quote": "\"H-how do I look? I can't see very well without my glasses...\" \"You? Wow---\"",
+        "abilities": "Attach to a NON-'Native' 'Female' Character to grant her the Trait 'Native' and +2 Defense.",
+        "title": "Makeover",
+        "mechanic": "Steve Caruso",
+        "art": "007-4.jpeg",
+        "x": 0,
+        "y": 0,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+
+
+
+
+
+    {
+        "number": "020",
+        "type": "character",
+        "name": "Action Librarian",
+        "traits": [
+            "Smart",
+            "Female"
+        ],
+        "stat": "5",
+        "popcorn": 3,
+        "bucket": true,
+        "quote": "\"It belongs IN A LIBRARY!\"",
+        "abilities": "You may discard the \"Bookish Girl With No Boyfriend\" from play at any time to play the Librarian for free. All 'Books' in her Movie gain +1 Defense OR +2 Defense if she is at a 'School' or 'Mortuary' Location OR +3 Defense if she is at any \"Library\".",
+        "title": "Book",
+        "mechanic": "Erica Schmitt",
+        "art": "020.jpeg",
+        "x": 0,
+        "y": -3,
+        "z": 1.07,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+
+
+
+
+    {
+        "number": "022",
+        "type": "character",
+        "name": "Who",
+        "traits": [
+            "Large",
+            "Male"
+        ],
+        "stat": "3",
+        "popcorn": 2,
+        "bucket": true,
+        "quote": "\"Who's on first?\" \"Yes.\" \"As in... Doctor?\" \"Who?\" \"Yes!\" \"No.\" \"What??\"",
+        "abilities": "Once per turn you may force Who to become the Victim of an attack or the target of any Special Effect played against your Movie.",
+        "title": "First",
+        "mechanic": "David Aretz",
+        "art": "022.jpeg",
+        "x": 0,
+        "y": -9,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+
+
+
+
+
+    {
+        "number": "030-1",
+        "type": "character",
+        "name": "Special Effects Artist",
+        "traits": [
+            "Smart",
+            "Male",
+            "Crew"
+        ],
+        "stat": "1",
+        "popcorn": 1,
+        "bucket": true,
+        "quote": "\"Hold still! If I *actually* slit your throat it'd be practically unintentional!\"",
+        "abilities": "Pay 2 Popcorn — You may give a Creature Trait from among the Creatures in any Graveyard to a Character currently in play (but not its Abilities).\n\nCrew — May not be targeted by attacks or use Props.",
+        "title": "Bloody",
+        "mechanic": "Ryan Grimes",
+        "art": "030-1.jpeg",
+        "x": 0,
+        "y": -9,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "030-2",
+        "type": "location",
+        "name": "Backdrop Studio",
+        "traits": [
+            "Special"
+        ],
+        "stat": "*",
+        "popcorn": 2,
+        "bucket": true,
+        "quote": "\"Eh, we'll fix it in post.\" \"This is ALL post...\"",
+        "abilities": "When Backdrop Studio comes into play, it becomes a complete copy of any Location card currently in play. However, once per turn, on your turn you may change it to any other Location card currently in play.",
+        "title": "Green",
+        "mechanic": "Ryan Grimes",
+        "art": "030-2.jpeg",
+        "x": 0,
+        "y": 0,
+        "z": 1,
+        "bg": "0x7D7D7D",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "030-03",
+        "type": "prop",
+        "name": "Manos' Hand of Fate",
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "1",
+        "popcorn": 2,
+        "bucket": true,
+        "quote": "\"The Master will now decide your fate!\" \"Oh yeah? Him and what budget?\"",
+        "abilities": "Discard the Hand from play — Look at the top X cards of your deck, where X is the number of Characters cast in your Opponents' Movies. You may reveal one and put it into your hand. Put the rest on the bottom of your Deck in any order.",
+        "title": "Hand",
+        "mechanic": "Ryan Grimes",
+        "art": "030-3.jpeg",
+        "x": -1,
+        "y": -35,
+        "z": 1,
+        "bg": "0xA8A8A8",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+
+
+
+
+
+    {
+        "number": "043",
+        "type": "character",
+        "name": "Unscrupulous Lawyer",
+        "traits": [
+            "Smart",
+            "Male",
+            "Crew"
+        ],
+        "stat": "1",
+        "popcorn": 3,
+        "bucket": false,
+        "quote": "\"Concerning your DMCA claim: I refer you to the response of Arkell v. Pressdram.\"",
+        "abilities": "3 Popcorn, Tip — Stop a Special Effect as it's being played. It is discarded.\n\nCrew — May not be targeted by attacks or use Props.",
+        "title": "Objection",
+        "mechanic": "Stephen Rynerson",
+        "art": "043.jpeg",
+        "x": 12,
+        "y": -9,
+        "z": 1,
+        "bg": "0xFFFFFF",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+
+
+
+
+
+    {
+        "number": "070",
+        "type": "character",
+        "name": "Union Rep",
+        "traits": [
+            "Male",
+            "Crew"
+        ],
+        "stat": "1",
+        "popcorn": 2,
+        "bucket": false,
+        "quote": "\"The real hero? The one who protects your pension and residuals!\"",
+        "abilities": "When calculating the Final Score, the Rep's Printed Defense = the number of Characters in your Movie.\n\nCrew — Cannot be targeted by attacks or use Props.",
+        "title": "Represent",
+        "mechanic": "Art Tucker",
+        "art": "070.jpeg",
+        "x": 0,
+        "y": 0,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+
+
+
+
+    {
+        "number": "999-01",
+        "type": "character",
+        "name": "Determined Aristocrat Gel",
+        "traits": [
+            "Female"
+        ],
+        "stat": "1",
+        "popcorn": 4,
+        "bucket": false,
+        "quote": "\"Don't forget that I am paying for this expedition!\"",
+        "abilities": "When the Gel is cast in your Movie, put three Popcorn tokens on her. You may spend these tokens at any time just like you would Popcorn.\n\nTip one of your Characters with a Popcorn Bucket — Place a Popcorn token on the Gel.",
+        "title": "Riches",
+        "mechanic": "Steve Caruso",
+        "art": "999-1.jpeg",
+        "x": 0,
+        "y": 0,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-02",
+        "type": "character",
+        "name": "Well-Meaning Scientist",
+        "traits": [
+            "Smart",
+            "Male"
+        ],
+        "stat": "1",
+        "popcorn": 1,
+        "bucket": false,
+        "quote": "\"The jungle isn't so bad if you get past the mosquitoes, humidity, heat, wild animals...\"",
+        "abilities": "If at a 'Scientific' Location, Defense = 3 and all 'Treasures' at that Location are at +1 Defense.",
+        "title": "Method",
+        "mechanic": "Steve Caruso",
+        "art": "999-2.jpeg",
+        "x": 0,
+        "y": 0,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-03",
+        "type": "character",
+        "name": "Token Exotic Woman",
+        "traits": [
+            "Smart",
+            "Native",
+            "Female"
+        ],
+        "stat": "1",
+        "popcorn": 2,
+        "bucket": true,
+        "quote": "\"So... where is she from?\" \"Around.\"",
+        "abilities": "Gains +1 Defense for every other NON-'Native' Character in the same Movie. ",
+        "title": "Title Word",
+        "mechanic": "Steve Caruso",
+        "art": "999-3.jpeg",
+        "x": 10,
+        "y": -4,
+        "z": 1,
+        "bg": "0xB3B3B3",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-04",
+        "type": "special-effect",
+        "name": "Make a Distraction",
+        "traits": [
+            "None"
+        ],
+        "stat": "10",
+        "popcorn": 2,
+        "bucket": false,
+        "quote": "\"What the hell was that??\"",
+        "abilities": "Knock out all Tipped Characters in a single Movie.",
+        "title": "Explosion",
+        "mechanic": "Steve Caruso",
+        "art": "999-4.jpeg",
+        "x": -25,
+        "y": -66,
+        "z": 1.17,
+        "bg": "0x949494",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-05",
+        "type": "creature",
+        "name": "Barrel of Monkeys",
+        "traits": [
+            "Swarm"
+        ],
+        "stat": "14",
+        "popcorn": 2,
+        "bucket": false,
+        "quote": "\"What was that sound in the kitchen?\"",
+        "abilities": "Instead of claiming a Victim, you may force that Movie's Director to discard their hand.\n\n'Swarm' — 'Weapon' Props cannot defend against the Monkeys.",
+        "title": "Ape",
+        "mechanic": "Steve Caruso",
+        "art": "999-5.jpeg",
+        "x": -1,
+        "y": -25,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-06",
+        "type": "creature",
+        "name": "Man Eating Plant",
+        "traits": [
+            "Monster"
+        ],
+        "stat": "12",
+        "popcorn": 2,
+        "bucket": false,
+        "quote": "\"The dude sure looks like plant food to me!\"",
+        "abilities": "If the Plant is successful, after the attack is resolved it is shuffled back into the Deck.",
+        "title": "Feed",
+        "mechanic": "Steve Tassie",
+        "art": "999-6.jpeg",
+        "x": 0,
+        "y": -20,
+        "z": 1,
+        "bg": "0x404040",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-07",
+        "type": "character",
+        "name": "Cold Fish Who Comes Around",
+        "traits": [
+            "Female"
+        ],
+        "stat": "0",
+        "popcorn": 0,
+        "bucket": true,
+        "quote": "“I wouldn’t be seen with you if you were the last person ali… oh just kiss me already!”",
+        "abilities": "Gains +1 Defense for each non-Native ‘Male’ in play.",
+        "title": "Pain",
+        "mechanic": "Steve Tassie",
+        "art": "999-7.jpeg",
+        "x": 0,
+        "y": 0,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-08",
+        "type": "creature",
+        "name": "Witch Doctor",
+        "traits": [
+            "Native",
+            "Supernatural"
+        ],
+        "stat": "6",
+        "popcorn": 1,
+        "bucket": false,
+        "quote": "“And he said, ‘Oo, ee, oo, ah-ah’.”",
+        "abilities": "May be played as a Special Effect to triple the current Strength of a ‘Native’ or ‘Supernatural’ Attack.",
+        "title": "Mystery",
+        "mechanic": "Steve Tassie",
+        "art": "999-8.jpeg",
+        "x": 7,
+        "y": -22,
+        "z": 1.03,
+        "bg": "0xDEDDDA",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-09",
+        "type": "prop",
+        "name": "Bananas",
+        "traits": [
+            "Food"
+        ],
+        "stat": "0",
+        "popcorn": 1,
+        "bucket": true,
+        "quote": "“Classic prat fall potential.”",
+        "abilities": "'Food' — Discard from play to draw a card.\n\nDiscard from play to Knock Out target Character or stop one \"Gorilla\", \"Ape\", or \"Monkey\" attack.",
+        "title": "Slip",
+        "mechanic": "Steve Caruso",
+        "art": "999-9.jpeg",
+        "x": -10,
+        "y": -35,
+        "z": 1.15,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-10",
+        "type": "prop",
+        "name": "Pipe",
+        "traits": [
+            "None"
+        ],
+        "stat": "2",
+        "popcorn": 1,
+        "bucket": true,
+        "quote": "“It makes you look distinguished.” “What does? Lung cancer?”",
+        "abilities": "Grants the Trait 'Smart' to its bearer.",
+        "title": "Smoke",
+        "mechanic": "Steve Caruso",
+        "art": "999-10.jpeg",
+        "x": 0,
+        "y": -12,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-11",
+        "type": "prop",
+        "name": "Alien Spaceship",
+        "traits": [
+            "Flying",
+            "Alien",
+            "Vehicle"
+        ],
+        "stat": "3",
+        "popcorn": 2,
+        "bucket": false,
+        "quote": "\"The latest in interstellar travel!\"",
+        "abilities": "You may discard the Alien Spaceship to take an 'Alien' Location from your Deck and play it into your Movie.",
+        "title": "Interstellar",
+        "mechanic": "Steve Caruso",
+        "art": "999-11.jpeg",
+        "x": -1,
+        "y": -23,
+        "z": 1.09,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-12",
+        "type": "special-effect",
+        "name": "Musical Score",
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "[Music Intensifies]",
+        "abilities": "Draw three cards. Every other Player draws 1 card.",
+        "title": "Notes",
+        "mechanic": "Steve Caruso",
+        "art": "999-12.jpeg",
+        "x": 0,
+        "y": -19,
+        "z": 1,
+        "bg": "0x9A9996",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-13",
+        "type": "prop",
+        "name": "Jungle Vines",
+        "traits": [
+            "Natural"
+        ],
+        "stat": "1",
+        "popcorn": 1,
+        "bucket": true,
+        "quote": "\"Wait... wait... I got an idea!\"",
+        "abilities": "Discard from play to Knock Out target Character OR give the current attack -5 Attack Strength.",
+        "title": "Swing",
+        "mechanic": "Steve Caruso",
+        "art": "999-13.jpeg",
+        "x": 0,
+        "y": 0,
+        "z": 1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-14",
+        "type": "special-effect",
+        "name": "Take a Hostage",
+        "traits": [],
+        "stat": "",
+        "popcorn": 3,
+        "bucket": false,
+        "quote": "\"Take them! They'll be useful...\"",
+        "abilities": "Attach a Character from another Movie face-down under one of your Location cards. Their Printed Defense only counts towards your final score. If a Player successfully Duels or Brawls against that Location and decides to Rescue them, or if the Location is discarded, they go back to their Movie.",
+        "title": "Trapped",
+        "mechanic": "Steve Caruso",
+        "art": "999-14.jpeg",
+        "x": 0,
+        "y": -17,
+        "z": 1.07,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-15",
+        "type": "special-effect",
+        "name": "Escape Attempt",
+        "traits": [],
+        "stat": "",
+        "popcorn": 2,
+        "bucket": false,
+        "quote": "\"We're busting you out!\"",
+        "abilities": "Rescue a Character imprisoned by \"Take a Hostage\" and return them to their Movie.",
+        "title": "Break",
+        "mechanic": "Steve Caruso",
+        "art": "999-15.jpeg",
+        "x": 0,
+        "y": -18,
+        "z": 1.03,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-16",
+        "type": "character",
+        "name": "Native Chief’s Daughter",
+        "traits": [
+            "Young",
+            "Native",
+            "Female",
+            "Virgin"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "\"Did we forget to rescue her, *again*?\"",
+        "abilities": "You must have at least one 'Male' in play or the Native Chief's Daughter is discarded.",
+        "title": "Capture",
+        "mechanic": "Steve Tassie",
+        "art": "999-16.jpeg",
+        "x": 0,
+        "y": -16,
+        "z": 1.07,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-17",
+        "type": "character",
+        "name": "Native Chieftain",
+        "traits": [
+            "Old",
+            "Native",
+            "Male"
+        ],
+        "stat": "0",
+        "popcorn": 2,
+        "bucket": true,
+        "quote": "\"Chief say ‘Oh yeah? Your hat pretty stupid looking, too!’.\"",
+        "abilities": "Gains +2 Defense for every other 'Native' Character in the same Movie.",
+        "title": "Head",
+        "mechanic": "Steve Tassie",
+        "art": "999-17.jpeg",
+        "x": 0,
+        "y": -9,
+        "z": 1.02,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-18",
+        "type": "character",
+        "name": "Rich Fish Out of Water",
+        "traits": [
+            "Dumb",
+            "Male"
+        ],
+        "stat": "1",
+        "popcorn": 3,
+        "bucket": true,
+        "quote": "\"Lovey, how many suitcases full of money should we take on this three hour tour?\"",
+        "abilities": "When the Rich Fish comes into play, draw 5 cards, and attach them face-down under him. You may look at them at any time. They do not count toward your hand size, nor may you use them to generate Popcorn, but you may play them as though they were part of your hand.",
+        "title": "Jewel",
+        "mechanic": "Steve Tassie",
+        "art": "999-18.jpeg",
+        "x": 0,
+        "y": -22,
+        "z": 1.00,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-19",
+        "type": "prop",
+        "name": "Sarcophagus",
+        "traits": [
+            "Treasure"
+        ],
+        "stat": "1",
+        "popcorn": 2,
+        "bucket": true,
+        "quote": "\"What’s the big deal? It’s just a stone box full of dead guy.\"",
+        "abilities": "Defense = 5 if in a 'Mortuary' or a \"Museum\".\n\nDefense = -5 against 'Vampire' attacks or a \"Mummy\".",
+        "title": "Abode",
+        "mechanic": "Steve Tassie",
+        "art": "999-19.jpeg",
+        "x": 0,
+        "y": -15,
+        "z": 1.1,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-20",
+        "type": "special-effect",
+        "name": "Xtlpxctl the Volcano God",
+        "traits": [],
+        "stat": "",
+        "popcorn": 2,
+        "bucket": false,
+        "quote": "\"The volcano must be appeased… you're sure she's a virgin?\"",
+        "abilities": "Kill one Character from any Movie. If the Character sacrificed is 'Female', you may draw two cards.",
+        "title": "Fire",
+        "mechanic": "Steve Tassie",
+        "art": "999-20.jpeg",
+        "x": 0,
+        "y": -22,
+        "z": 1.00,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-21",
+        "type": "special-effect",
+        "name": "Customs Trouble",
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "\"I told you they’d never believe the sarcophagus was your Uncle Morty’s coffin!\"",
+        "abilities": "Knock Out all 'Treasures' in one Movie.",
+        "title": "Trouble",
+        "mechanic": "Steve Tassie",
+        "art": "999-21.jpeg",
+        "x": 0,
+        "y": 0,
+        "z": 1.00,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    },
+    {
+        "number": "999-22",
+        "type": "special-effect",
+        "name": "Second Wind",
+        "traits": [],
+        "stat": "",
+        "popcorn": 1,
+        "bucket": false,
+        "quote": "\"It’s not the years, it’s the mileage.\"",
+        "abilities": "Play on your turn to take a Character out of your Graveyard and play them in your Movie, Knocked Out.",
+        "title": "Exhausted",
+        "mechanic": "Steve Tassie",
+        "art": "999-22.jpeg",
+        "x": 0,
+        "y": -25,
+        "z": 1.05,
+        "bg": "0x000000",
+        "artist": "Steve Caruso",
+        "frame": "default"
+    }
+
+]
