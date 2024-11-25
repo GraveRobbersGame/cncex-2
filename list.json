@@ -124,12 +124,10 @@
         "frame": "default"
     },
     {
-        "number": "007-4.jpeg",
+        "number": "007-4",
         "type": "special-effect",
         "name": "Native Glow-Up",
-        "traits": [
-            "None"
-        ],
+        "traits": [],
         "stat": "10",
         "popcorn": 2,
         "bucket": true,
