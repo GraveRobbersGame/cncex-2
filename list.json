@@ -134,7 +134,7 @@
         "quote": "\"H-how do I look? I can't see very well without my glasses...\" \"You? Wow---\"",
         "abilities": "Attach to a NON-'Native' 'Female' Character to grant her the Trait 'Native' and +2 Defense.",
         "title": "Makeover",
-        "mechanic": "Steve Caruso",
+        "mechanic": "Andrew Jensen",
         "art": "007-4.jpeg",
         "x": 0,
         "y": 0,
@@ -539,7 +539,7 @@
         "type": "prop",
         "name": "Pipe",
         "traits": [
-            "None"
+            "Clothing"
         ],
         "stat": "2",
         "popcorn": 1,
@@ -693,6 +693,7 @@
         "name": "Native Chieftain",
         "traits": [
             "Old",
+            "Small",
             "Native",
             "Male"
         ],
@@ -745,7 +746,7 @@
         "popcorn": 2,
         "bucket": true,
         "quote": "\"What’s the big deal? It’s just a stone box full of dead guy.\"",
-        "abilities": "Defense = 5 if in a 'Mortuary' or a \"Museum\".\n\nDefense = -5 against 'Vampire' attacks or a \"Mummy\".",
+        "abilities": "Defense = 5 if in a 'Mortuary' or a \"Museum\".\n\nDefense = -5 against 'Vampire' attacks or against a \"Mummy\".",
         "title": "Abode",
         "mechanic": "Steve Tassie",
         "art": "999-19.jpeg",
